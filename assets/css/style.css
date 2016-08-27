@@ -1,0 +1,60 @@
+
+
+#t1 {
+	 
+	 width: 400px;
+	 height: 150px;
+	 float: right;
+
+}
+
+#t2 {
+	width: 400px;
+	height: 40px;
+	float: right;
+
+}
+
+.bgimage{
+    background-image: url(../images/star-wars-wallpaper-2.jpg);
+    height: 900px;
+}
+
+
+.subHeader {
+	font-family: Day+One;
+	height: 120px;
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: left;
+    color: white;
+}
+
+.button-border{
+
+	border: 2px;
+	border-color: green;
+	padding:10px;
+
+}
+
+
+#showPlayers {
+
+}
+
+
+
+#selectedPlayer{
+
+	
+}
+
+#showOpponents{
+
+	
+}
+#duelStatus{
+
+	
+}
