@@ -21,7 +21,6 @@
 
 .subHeader {
 	font-family: Day+One;
-	height: 120px;
     font-weight: bolder;
     font-size: 35px;
     text-align: left;
@@ -33,6 +32,10 @@
 	border: 2px solid blue;
 
 
+}
+
+.oppoBorder{
+	border: 2px solid red;
 }
 
 img {
@@ -54,6 +57,9 @@ img {
 }
 
 #showOpponents{
+}
+
+#selectedOpponent{
 
 	
 }
